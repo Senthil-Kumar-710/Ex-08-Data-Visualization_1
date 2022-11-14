@@ -348,4 +348,4 @@ plt.show()
 ## HeatMap:
 ![](o53.png)
 # Result:
-Hence,Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
+Hence,Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file
